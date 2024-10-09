@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\1 - Manager.API",
+    "\\1 - Manager.API\\Controllers",
+    "\\1 - Manager.API\\Token",
+    "\\1 - Manager.API\\Utilities",
+    "\\1 - Manager.API\\ViewModels"
+  ],
+  "SelectedNode": "\\1 - Manager.API\\Token\\TokenGenerator.cs",
+  "PreviewInSolutionExplorer": false
+}

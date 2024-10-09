@@ -1,0 +1,11 @@
+D:\WORKSPACES_ESTUDOS\C#\Manager\src\5 - Manager.Core\bin\Debug\net5.0\Manager.Core.deps.json
+D:\WORKSPACES_ESTUDOS\C#\Manager\src\5 - Manager.Core\bin\Debug\net5.0\Manager.Core.dll
+D:\WORKSPACES_ESTUDOS\C#\Manager\src\5 - Manager.Core\bin\Debug\net5.0\Manager.Core.pdb
+D:\WORKSPACES_ESTUDOS\C#\Manager\src\5 - Manager.Core\obj\Debug\net5.0\Manager.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\WORKSPACES_ESTUDOS\C#\Manager\src\5 - Manager.Core\obj\Debug\net5.0\Manager.Core.AssemblyInfoInputs.cache
+D:\WORKSPACES_ESTUDOS\C#\Manager\src\5 - Manager.Core\obj\Debug\net5.0\Manager.Core.AssemblyInfo.cs
+D:\WORKSPACES_ESTUDOS\C#\Manager\src\5 - Manager.Core\obj\Debug\net5.0\Manager.Core.csproj.CoreCompileInputs.cache
+D:\WORKSPACES_ESTUDOS\C#\Manager\src\5 - Manager.Core\obj\Debug\net5.0\Manager.Core.dll
+D:\WORKSPACES_ESTUDOS\C#\Manager\src\5 - Manager.Core\obj\Debug\net5.0\refint\Manager.Core.dll
+D:\WORKSPACES_ESTUDOS\C#\Manager\src\5 - Manager.Core\obj\Debug\net5.0\Manager.Core.pdb
+D:\WORKSPACES_ESTUDOS\C#\Manager\src\5 - Manager.Core\obj\Debug\net5.0\ref\Manager.Core.dll

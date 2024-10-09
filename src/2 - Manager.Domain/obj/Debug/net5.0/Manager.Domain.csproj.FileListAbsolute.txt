@@ -1,0 +1,15 @@
+D:\WORKSPACES_ESTUDOS\C#\Manager\src\2 - Manager.Domain\bin\Debug\net5.0\Manager.Domain.deps.json
+D:\WORKSPACES_ESTUDOS\C#\Manager\src\2 - Manager.Domain\bin\Debug\net5.0\Manager.Domain.dll
+D:\WORKSPACES_ESTUDOS\C#\Manager\src\2 - Manager.Domain\bin\Debug\net5.0\Manager.Domain.pdb
+D:\WORKSPACES_ESTUDOS\C#\Manager\src\2 - Manager.Domain\bin\Debug\net5.0\Manager.Core.dll
+D:\WORKSPACES_ESTUDOS\C#\Manager\src\2 - Manager.Domain\bin\Debug\net5.0\Manager.Core.pdb
+D:\WORKSPACES_ESTUDOS\C#\Manager\src\2 - Manager.Domain\obj\Debug\net5.0\Manager.Domain.csproj.AssemblyReference.cache
+D:\WORKSPACES_ESTUDOS\C#\Manager\src\2 - Manager.Domain\obj\Debug\net5.0\Manager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\WORKSPACES_ESTUDOS\C#\Manager\src\2 - Manager.Domain\obj\Debug\net5.0\Manager.Domain.AssemblyInfoInputs.cache
+D:\WORKSPACES_ESTUDOS\C#\Manager\src\2 - Manager.Domain\obj\Debug\net5.0\Manager.Domain.AssemblyInfo.cs
+D:\WORKSPACES_ESTUDOS\C#\Manager\src\2 - Manager.Domain\obj\Debug\net5.0\Manager.Domain.csproj.CoreCompileInputs.cache
+D:\WORKSPACES_ESTUDOS\C#\Manager\src\2 - Manager.Domain\obj\Debug\net5.0\Manager..A97F38E4.Up2Date
+D:\WORKSPACES_ESTUDOS\C#\Manager\src\2 - Manager.Domain\obj\Debug\net5.0\Manager.Domain.dll
+D:\WORKSPACES_ESTUDOS\C#\Manager\src\2 - Manager.Domain\obj\Debug\net5.0\refint\Manager.Domain.dll
+D:\WORKSPACES_ESTUDOS\C#\Manager\src\2 - Manager.Domain\obj\Debug\net5.0\Manager.Domain.pdb
+D:\WORKSPACES_ESTUDOS\C#\Manager\src\2 - Manager.Domain\obj\Debug\net5.0\ref\Manager.Domain.dll

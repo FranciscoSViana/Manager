@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-Manager.Infra",
+      "appliesTo": "4 - Manager.Infra/Manager.Infra.csproj",
+      "type": "msbuild"
+    },
+    {
+      "taskLabel": "task-4 - Manager",
+      "appliesTo": "4 - Manager.Infra/",
+      "type": "launch"
+    }
+  ]
+}
